@@ -7,8 +7,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D2BCFF&height=300&section=header&text=YURI%20HONG&fontSize=90)
 
-<a href="https://honeypot.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-D2BCFF?style=flat&logo=Bloglovin&logoColor=yellow"/></a>$nbsp
-<img src="https://img.shields.io/static/v1?label=#3776AB&message=Python&color=blue?style=flat&logo=appveyor"></a>$nbsp
+![Blog](https://img.shields.io/badge/blog-753188?style=flat&logo=Bloglovin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=D2BCFF&height=150&section=footer&fontSize=90)
 <!--
